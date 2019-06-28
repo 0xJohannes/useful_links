@@ -6,3 +6,6 @@ Useful links for *sec
 
 # XXE
 [https://web-in-security.blogspot.com/2016/03/xxe-cheat-sheet.html](https://web-in-security.blogspot.com/2016/03/xxe-cheat-sheet.html)
+
+# XSS
+[https://xsses.rocks/sample-page/](https://xsses.rocks/sample-page/)
