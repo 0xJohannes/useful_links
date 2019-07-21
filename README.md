@@ -1,6 +1,9 @@
 # useful_links
 Useful links for *sec
 
+#SEC
+https://phonexicum.github.io/infosec/wifi.html
+
 # MOBILE
 1--[https://mobile-security.gitbook.io/mobile-security-testing-guide/android-testing-guide/0x05h-testing-platform-interaction](https://mobile-security.gitbook.io/mobile-security-testing-guide/android-testing-guide/0x05h-testing-platform-interaction)
 
