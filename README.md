@@ -1,4 +1,4 @@
-# useful_links
+# useful links
 Useful links for *sec. The Author of this repo is very grateful to the authors of the content below.
 
 # SEC
