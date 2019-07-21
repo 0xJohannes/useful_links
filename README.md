@@ -1,5 +1,5 @@
 # useful_links
-Useful links for *sec
+Useful links for *sec. The Author of this repo is very grateful to the authors of the content below.
 
 # SEC
 1 -- [https://phonexicum.github.io/infosec/](https://phonexicum.github.io/infosec/)
