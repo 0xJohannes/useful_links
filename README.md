@@ -22,3 +22,4 @@ Useful links for *sec. Maintainer of this repository is very grateful to the aut
 # XSS
 1--[https://xsses.rocks/sample-page/](https://xsses.rocks/sample-page/)
 2 -- [https://paper.bobylive.com/Security/XSS_Cheat_Sheet_2018_Edition.pdf](https://paper.bobylive.com/Security/XSS_Cheat_Sheet_2018_Edition.pdf)
+3 -- [https://www.secjuice.com/bypass-xss-filters-using-javascript-global-variables/](https://www.secjuice.com/bypass-xss-filters-using-javascript-global-variables/)
